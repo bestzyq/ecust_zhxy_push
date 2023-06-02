@@ -1,38 +1,23 @@
 # ECUST_zhxy_push
 
 #### 介绍
-为打包推送而烦恼？试试这个工具吧。
-将一篇Word文档实现图文分离，自动标号，自动打包，完美符合格式需求~
-
-#### 软件架构
-软件架构说明
-
+为打包推送而烦恼？试试这个工具吧。  
+将一篇Word文档实现图文分离，自动标号（图片1、2等），自动打包，完美符合格式需求~
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  打开[Python官网](https://www.python.org/)-Download-下载并安装Python
+2.  "Win"+"R"键打开运行，输入"cmd"，在窗口中输入
+
+```
+pip install python-docx
+
+```
+安装docx: 用于处理Word文档的库
+3.  下载push-zip.py或者push-folder.py
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+将下载好的push-zip.py或者push-folder.py移动到word文档所在目录，双击执行即可  
+1. push-zip.py直接打包成zip
+2. push-folder.py形成docx+图像文件夹，需要手动打包

@@ -14,7 +14,7 @@
 pip install python-docx
 
 ```
-安装docx: 用于处理Word文档的库
+安装docx: 用于处理Word文档的库  
 3.  下载push-zip.py或者push-folder.py
 
 #### 使用说明

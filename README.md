@@ -21,4 +21,5 @@
 1. 准备好图文并茂的Word文档
 2. 将下载好的push-zip.py或者push-folder.py移动到word文档所在目录，双击执行即可  
     - push-zip.py用于直接打包成zip
-    - push-folder.py用于形成文档+图像文件夹，需要手动打包
+    - push-folder.py用于形成文档+图像文件夹，需要手动打包  
+更多效果图查看[wiki](https://gitee.com/chinazyq/ecust_zhxy_push/wikis/Home)

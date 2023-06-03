@@ -8,14 +8,13 @@
 #### 安装教程
 
 1.  打开[Python官网](https://www.python.org/)-Download-下载并安装Python
-2.  "Win"+"R"键打开运行，输入"cmd"，在窗口中输入
-
-```
-pip install python-docx
-
-```
-安装docx: 用于处理Word文档的库  
-3.  下载push-zip.py或者push-folder.py
+2.  "Win"+"R"键打开运行，输入"cmd"，在窗口中输入  
+    ```
+    pip install python-docx
+    
+    ```
+    安装docx: 用于处理Word文档的库  
+3.  下载[push-zip.py](https://gitee.com/chinazyq/ecust_zhxy_push/releases/download/1.0.0/push-zip.py)或者[push-folder.py](https://gitee.com/chinazyq/ecust_zhxy_push/releases/download/1.0.0/push-folder.py)
 
 #### 使用说明
 
